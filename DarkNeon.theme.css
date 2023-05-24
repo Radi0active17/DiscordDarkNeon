@@ -19,7 +19,7 @@
 
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
-  --rgb-highlight:  225, 233, 240; /* The main highlight color */
+  --rgb-highlight:   0, 180, 255; /* The main highlight color */
   --rgb-background: 0, 0, 0; /* The main background color */
   --rgb-text: 255, 255, 255; /* The main text color */
   --rgb-close-button: 212, 18, 39; /* The main "close this" or "deny" color */
@@ -30,7 +30,7 @@
 
   --transition-time: .3s; /* How fast animations added by the theme happen. Default is 0.3 seconds */
 
-  --background-image: url('https://e0.pxfuel.com/wallpapers/484/839/desktop-wallpaper-anime-aesthetic-laptop-red-aesthetic-anime.jpg'); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
+  --background-image: url('https://images5.alphacoders.com/128/1288655.png'); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
   --background-blur: 5px; /* Blurs the image which helps with readability of text infront of it */
