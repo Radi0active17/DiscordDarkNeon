@@ -33,6 +33,6 @@
   --background-image: url('https://r4.wallpaperflare.com/wallpaper/163/392/912/map-wold-map-technology-world-wallpaper-d8c6edc810508cc8901c51ae183254ea.jpg'); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
-  --background-blur: 1px; /* Blurs the image which helps with readability of text infront of it */
+  --background-blur: 0px; /* Blurs the image which helps with readability of text infront of it */
   --background-brightness: 100%; /* Changes the background images brightness */
 }
