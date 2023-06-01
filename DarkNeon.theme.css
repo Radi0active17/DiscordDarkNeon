@@ -19,7 +19,7 @@
 
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
-  --rgb-highlight:   255, 50, 50; /* The main highlight color */
+  --rgb-highlight:   	135, 206, 235; /* The main highlight color */
   --rgb-background: 0, 0, 0; /* The main background color */
   --rgb-text: 250, 250, 250; /* The main text color */
   --rgb-close-button: 212, 18, 39; /* The main "close this" or "deny" color */
@@ -30,7 +30,7 @@
 
   --transition-time: .3s; /* How fast animations added by the theme happen. Default is 0.3 seconds */
 
-  --background-image: url('https://r4.wallpaperflare.com/wallpaper/364/318/503/digital-art-illustration-artwork-cityscape-wallpaper-b64fb76dbd4f1919433e8a91600da41b.jpg'); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
+  --background-image: url('https://r4.wallpaperflare.com/wallpaper/696/916/976/restaurant-dark-anime-girls-anime-alone-hd-wallpaper-15580a2f1b06643d0626254b0b993b1a.jpg'); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
   --background-blur: 2px; /* Blurs the image which helps with readability of text infront of it */
